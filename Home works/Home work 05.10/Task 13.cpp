@@ -1,3 +1,4 @@
+//За введеною датою Day, Month (цілі числа 1-31,1-12) вивести знак Зодіаку, для цієї дати.
 #include <iostream>
 using namespace std;
 int main() {

@@ -1,3 +1,4 @@
+//Знайти суму  цифр введеного трьохзначного числа
 #include <iostream>
 using namespace std;
 int main() {
