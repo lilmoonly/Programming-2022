@@ -29,7 +29,7 @@ string parsing_string(string str){
             }
         }
     }
-    result = line_without_symbol + '.' + line_end;
+    result = line_without_symbol + line_end;
     return result;
 }
 int main() {
