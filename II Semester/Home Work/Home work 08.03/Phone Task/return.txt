@@ -1,0 +1,30 @@
+Name - X
+Brand - Iphone
+Price - 660$
+Color - Grey
+RAM - 4gb
+Name - 6ART
+Brand - Sony
+Price - 600$
+Radius - 2000m
+Answering machine - true
+Name - 8
+Brand - Iphone
+Price - 350$
+Color - Red
+RAM - 2gb
+Name - 2ART
+Brand - Sony
+Price - 300$
+Radius - 1000m
+Answering machine - false
+Name - 6
+Brand - Iphone
+Price - 200$
+Color - Grey
+RAM - 1gb
+Name - 6ART
+Brand - Sony
+Price - 600$
+Radius - 2000m
+Answering machine - true

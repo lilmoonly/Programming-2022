@@ -1,0 +1,2 @@
+2ART Sony 300 1000 false
+6ART Sony 600 2000 true
