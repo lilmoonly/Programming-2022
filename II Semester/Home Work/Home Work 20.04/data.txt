@@ -1,0 +1,10 @@
+-1 Halamaha 58 4
+-2 Fedyniak 24.5 000423 29.98
+-1 Furman 99.99 2
+-1 Urdeychuk 125.12 1
+-2 Klakovych 366.1 001023 30.50
+-2 Muliarchyk 120.66 000671 26.13
+-2 Alogire 123 000666 23.20
+-2 Nekoma 232 000123 50.33
+-2 Komino 101 001010 23.22
+-1 Yakymets 79.12 3

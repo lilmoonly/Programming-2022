@@ -1,0 +1,35 @@
+Water fee: 
+Surname - Klakovych
+Paid - 366.1$
+Counter display - 001023
+Paid water volume - 30.5m^3
+
+
+Water fee: 
+Surname - Nekoma
+Paid - 232$
+Counter display - 000123
+Paid water volume - 50.33m^3
+
+
+Water fee: 
+Surname - Alogire
+Paid - 123$
+Counter display - 000666
+Paid water volume - 23.2m^3
+
+
+Water fee: 
+Surname - Muliarchyk
+Paid - 120.66$
+Counter display - 000671
+Paid water volume - 26.13m^3
+
+
+Water fee: 
+Surname - Komino
+Paid - 101$
+Counter display - 001010
+Paid water volume - 23.22m^3
+
+

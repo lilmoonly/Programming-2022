@@ -1,0 +1,20 @@
+Gas fee: 
+Surname - Halamaha
+Paid - 58$
+Person count - 4
+
+Gas fee: 
+Surname - Yakymets
+Paid - 79.12$
+Person count - 3
+
+Gas fee: 
+Surname - Furman
+Paid - 99.99$
+Person count - 2
+
+Gas fee: 
+Surname - Urdeychuk
+Paid - 125.12$
+Person count - 1
+
